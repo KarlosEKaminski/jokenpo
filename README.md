@@ -2,8 +2,6 @@
 <h1 align="center">Jokenpô</h1>
 <p>Esta é um aplicação desktop desenvolvida em Java, com o simples objetivo de implementar o popular jogo Jokenpô, que também é conhecido como: Pedra, Papel e Tesoura.</p>
 
-![Screenshot da tela inicial](https://github.com/KarlosEKaminski/jokenpo/screenshots/tela_inicial.png)
-
 ## 🎮 Como Jogar
 
 Baixe a versão compilada [aqui](dist/JOKENPO.jar?raw=true)
@@ -33,5 +31,16 @@ Baixe a versão compilada [aqui](dist/JOKENPO.jar?raw=true)
 
 Este projeto está sob a licença MIT<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<br>
+<br>
+<br>
 
-
+## 📸 Screenshots
+<div style="display: flex;">
+   <p align="center">
+      <img src="screenshots/tela_inicial.png" alt="Screenshot da tela de início" width="200"/>
+      <img src="screenshots/tela_vitoria.png" alt="Screenshot da tela de vitória" width="200"/>
+      <img src="screenshots/tela_empate.png" alt="Screenshot da tela de empate" width="200"/>
+      <img src="screenshots/derrota.png" alt="Screenshot da tela de derrota" width="200"/>
+   </p>
+</div>
