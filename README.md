@@ -29,7 +29,7 @@ Baixe a versão compilada [aqui](dist/JOKENPO.jar?raw=true)
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT<br>
+Este projeto está sob a licença [MIT](LICENSE.txt)<br>
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 <br>
 <br>
