@@ -1,6 +1,6 @@
 
 <h1 align="center">Jokenpô</h1>
-<p>Esta é um aplicação desktop desenvolvida em Java, com o simples objetivo de implementar o popular jogo Jokenpô, que também é conhecido como: Pedra, Papel e Tesoura.</p>
+<p>Esta é uma aplicação desktop desenvolvida em Java, com o simples objetivo de implementar o popular jogo Jokenpô, que também é conhecido como: Pedra, Papel e Tesoura.</p>
 
 ## 🎮 Como Jogar
 
