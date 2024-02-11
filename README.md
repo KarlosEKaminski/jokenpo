@@ -17,7 +17,7 @@ Baixe a versão compilada [aqui](dist/JOKENPO.jar?raw=true)
 
 ## 📦 Recursos
 
-- Diposnível apenas em PT-BR.
+- Disponível apenas em PT-BR.
 - Interface gráfica simples e intuitiva.
 - Escolha aleatória do computador.
 - Fácil de entender e jogar.
